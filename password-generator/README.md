@@ -61,4 +61,4 @@ A Google Sheets automation script that generates random passwords in the **Yande
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.shields.io/badge/Watch-Video-blue?logo=googlechrome)](demo/Demo.mp4)
+[▶️ Click here to watch the demo](demo/Demo.mp4)
