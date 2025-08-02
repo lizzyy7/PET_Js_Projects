@@ -50,6 +50,7 @@ Users can add products, check stock levels, and email a PDF restock report with 
 - [ ] Add more options to "add row" function. With autocomplete and amount of rows (by 2, 5, 10)
 - [ ] Save email recipients history for quick reuse
 - [ ] Interactive menu to make custom dropdown menus
+- [ ] Integrate third party functions to convert and export in XLXS format directly
 
 
 ## 🎥 Demo
@@ -107,6 +108,7 @@ Users can add products, check stock levels, and email a PDF restock report with 
 - [ ] Добавить функционал по добавлению строк по категории/количеству (2, 5, 10)
 - [ ] Хранить историю e-mail адресов для повторной отправки
 - [ ] Поддержка нескольких листов или категорий
+- [ ] Интегрировать новый функционал по преобразованию и экспорта в XLSX напрямую из таблиц
 
 
 ## 🎥 Demo
