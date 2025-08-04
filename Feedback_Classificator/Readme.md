@@ -9,7 +9,7 @@ It creates new sheets per feedback category (e.g. Bug Report, Suggestion), with 
 
 ### ✅ Features
 
-- Adds a custom menu called **Sort feedback**
+- Adds a custom menu called **🗣Sort feedback**
 - Automatically categorizes responses from "Form Responses" sheet
 - Creates new category sheets only after user confirmation
 - Tracks which categories were accepted or ignored to avoid duplicate prompts
@@ -56,7 +56,7 @@ It creates new sheets per feedback category (e.g. Bug Report, Suggestion), with 
 
 ### ✅ Возможности
 
-- Добавляет новое меню **Sort feedback**  
+- Добавляет новое меню **🗣Sort feedback**  
 - Автоматически сортирует отклики из листа "Form Responses"  
 - Создаёт новые листы по категориям только после согласия пользователя  
 - Запоминает категории, чтобы не спрашивать повторно  
