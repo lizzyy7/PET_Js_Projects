@@ -8,10 +8,10 @@ Collection of JavaScript/Google Apps Script projects solving real-world problems
 ## 🌟 Projects Overview
 | Project | Last Updated | Description |
 |---------|--------------|-------------|
-| **[Budget Tracker](Budget_Tracker)** | 4 days ago | Track and manage personal finances |
-| **[Feedback Classificator](Feedback_Classificator)** | 13 minutes ago | Categorize and analyze user feedback |
-| **[Inventory Manager](Inventory_Manager)** | 2 days ago | Manage product inventory and stock levels |
-| **[Password Generator](password-generator)** | Last week | Create secure random passwords |
+| **[Budget Tracker](Budget_Tracker)** | 31.07.2025 | Track and manage personal finances |
+| **[Feedback Classificator](Feedback_Classificator)** | 04.08.2025 | Categorize and analyze user feedback |
+| **[Inventory Manager](Inventory_Manager)** | 02.08.2025 | Manage product inventory and stock levels |
+| **[Password Generator](password-generator)** | 28.07.2025 | Create secure random passwords |
 
 ## 🧭 Navigation Guide
 1. Browse projects using the table above  
@@ -44,10 +44,10 @@ Collection of JavaScript/Google Apps Script projects solving real-world problems
 ## 🌟 Обзор проектов
 | Проект | Обновлено | Описание |
 |---------|--------------|-------------|
-| **[Budget Tracker](Budget_Tracker)** | 4 дня назад | Отслеживание личных финансов |
-| **[Feedback Classificator](Feedback_Classificator)** | 13 минут назад | Классификация пользовательских отзывов |
-| **[Inventory Manager](Inventory_Manager)** | 2 дня назад | Управление складскими запасами |
-| **[Password Generator](password-generator)** | Неделю назад | Генератор безопасных паролей |
+| **[Budget Tracker](Budget_Tracker)** | 31.07.2025 | Отслеживание личных финансов |
+| **[Feedback Classificator](Feedback_Classificator)** | 04.08.2025 | Классификация пользовательских отзывов |
+| **[Inventory Manager](Inventory_Manager)** | 02.08.2025 | Управление складскими запасами |
+| **[Password Generator](password-generator)** | 28.07.2025 | Генератор безопасных паролей |
 
 ## 🧭 Навигация
 1. Просмотрите проекты в таблице выше  
