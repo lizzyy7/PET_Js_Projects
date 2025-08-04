@@ -30,6 +30,12 @@ Collection of JavaScript/Google Apps Script projects solving real-world problems
 2. **Project Documentation**  
    Each folder contains dedicated `README.md` with purpose, setup instructions, and examples
 
+### 🔧 Planned Improvements
+- [ ] Expand existing scripts with new features  
+- [ ] Create new Google Sheets automation templates  
+- [ ] Develop UI component library (auto-create buttons/forms)  
+- [ ] Build Telegram video downloader bot  
+
 ## 🇷🇺 Русский
 
 ### Обзор
@@ -59,3 +65,9 @@ Collection of JavaScript/Google Apps Script projects solving real-world problems
    Проекты непрерывно улучшаются - простые решения сегодня могут стать мощными системами завтра  
 2. **Документация проектов**  
    Каждая папка содержит собственный `README.md` с описанием, инструкциями по настройке и примерами
+
+### 🔧 Запланированные улучшения
+- [ ] Расширить существующие скрипты новыми функциями  
+- [ ] Создать новые шаблоны автоматизации Google Таблиц  
+- [ ] Разработать библиотеку UI компонентов (автосоздание кнопок/форм)  
+- [ ] Создать бота для скачивания видео из Telegram  
