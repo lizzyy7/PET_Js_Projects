@@ -39,12 +39,12 @@ It creates new sheets per feedback category (e.g. Bug Report, Suggestion), with 
 
 ## 🔧 To-Do List (Planned Improvements)
 
-- ✅ Append headers automatically when a sheet is created  
-- ✅ Add export options (e.g. email selected sheets)  
-- ✅ Make feedback sorter fully autonomous (e.g. run weekly)  
-- ✅ Add options to delete old data after processing  
-- ✅ Simplify code and optimize data checks  
-- ✅ Allow custom trigger setup via UI (e.g. "Sort every Friday at 9AM")  
+- [ ] Append headers automatically when a sheet is created  
+- [ ] Add export options (e.g. email selected sheets)  
+- [ ] Make feedback sorter fully autonomous (e.g. run weekly)  
+- [ ] Add options to delete old data after processing  
+- [ ] Simplify code and optimize data checks  
+- [ ] Allow custom trigger setup via UI (e.g. "Sort every Friday at 9AM")  
 
 ---
 
@@ -87,9 +87,9 @@ It creates new sheets per feedback category (e.g. Bug Report, Suggestion), with 
 
 ## 🔧 Планы на будущее
 
-- ✅ Автоматическое добавление заголовков при создании листа  
-- ✅ Возможность экспорта данных (например, на email)  
-- ✅ Сделать сортировку автономной (например, раз в неделю)  
-- ✅ Добавить опции очистки старых данных  
-- ✅ Упростить и оптимизировать код  
-- ✅ Настройка пользовательских триггеров из интерфейса  
+- [ ] Автоматическое добавление заголовков при создании листа  
+- [ ] Возможность экспорта данных (например, на email)  
+- [ ] Сделать сортировку автономной (например, раз в неделю)  
+- [ ] Добавить опции очистки старых данных  
+- [ ] Упростить и оптимизировать код  
+- [ ] Настройка пользовательских триггеров из интерфейса  
