@@ -32,7 +32,6 @@ It creates new sheets per feedback category (e.g. Bug Report, Suggestion), with 
 
 - Suggestion  
 - Bug Report  
-- Complaint  
 - Praise  
 
 ---
@@ -80,7 +79,6 @@ It creates new sheets per feedback category (e.g. Bug Report, Suggestion), with 
 
 - Предложение  
 - Сообщение об ошибке  
-- Жалоба  
 - Благодарность  
 
 ---
