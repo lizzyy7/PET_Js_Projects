@@ -6,7 +6,7 @@ const acceptedCategories = new Set(); // tracks sheet category per creation
 const ignoredCategories = new Set();
 
 function createMenu(){
-  var newButton = SpreadsheetApp.getUi()
+  const newButton = SpreadsheetApp.getUi()
   newButton.createMenu('Sort feedback')
     .addItem('1. Sort feedback', 'executeAutoCreationForActiveSheet')
     .addToUi()
