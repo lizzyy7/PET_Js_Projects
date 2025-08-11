@@ -3,7 +3,7 @@ function onOpen() {
 }
 
 function createExpensesMenu(){
-    var ui = SpreadsheetApp.getUi();
+    const ui = SpreadsheetApp.getUi();
   ui.createMenu('🧭Expenses editor')
       .addItem('1. Add Expense', 'addExpenseRow')
       .addSeparator()
