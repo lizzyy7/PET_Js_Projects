@@ -3,7 +3,7 @@ function onOpen() {
 }
 
 function createMenu() {
-  var ui = SpreadsheetApp.getUi();
+  const ui = SpreadsheetApp.getUi();
   ui.createMenu('📦Inventory Menu')
     .addItem('1. Add product', 'addRows')
     .addItem('2. Check Stock', 'calculateStock')
